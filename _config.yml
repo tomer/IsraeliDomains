@@ -1,0 +1,6 @@
+name: השוואת מחירים של רשמי שמות מתחם ישראלים
+markdown: redcarpet
+pygments: true
+
+direction: rtl
+lang: he
