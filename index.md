@@ -9,27 +9,15 @@ title: השוואת מחירים של רשמי שמות מתחם ישראלים
 
 | שם הרשם | מחיר שם מתחם ישראלי לשנה |
 |:--------:| ------------------------- |
-<<<<<<< HEAD
-ש|[box]            | 49₪  לשנה עבור שם מתחם co.il/org.il
-ש|[WebLine]        | 69₪ לשנה כולל מע"מ 
-ש|[InterSpace]     | 69.90₪ לשנה כולל מע"מ. 
-ש|[TripleC]        | 70₪ לשנה עבור שם מתחם co.il/org.il
-ש|[LiveDNS]        | 70₪ עבור שם מתחם co.il/org.il
-ש|[Galcomm]        | 16$ עבור שם מתחם co.il/org.il, בדף הראשי שלהם מתפרסם מידע על [חידוש שמות מתחם במחיר אטרקטיבי של 49₪](http://www.galcomm.co.il/RenewDomian.aspx), אבל הוא לא בתוקף כבר קרוב לשנה. 
-ש|[Domain The Net] | 79.99₪ עבור שם מתחם co.il,‏ 67.79₪ עבור שם מתחם org.il
-ש|[IP Mirror]      |
-ש|[Safenames]      |
-=======
 |[box]            | 49₪  לשנה עבור שם מתחם co.il/org.il
 |[WebLine]        | 69₪ לשנה כולל מע"מ 
 |[InterSpace]     | 69.90₪ לשנה כולל מע"מ
 |[TripleC]        | 70₪ לשנה עבור שם מתחם co.il/org.il
 |[LiveDNS]        | 70₪ עבור שם מתחם co.il/org.il למשתמשים חדשים. למשתמשים קיימים המחיר הוא 75₪.
 |[Galcomm]        | 16$ עבור שם מתחם co.il/org.il, בדף הראשי שלהם מתפרסם מידע על [חידוש שמות מתחם במחיר אטרקטיבי של 49₪](http://www.galcomm.co.il/RenewDomian.aspx), אבל הוא לא בתוקף כבר קרוב לשנה. 
-|[Domain The Net] | 79.99₪ עבור שם מתחם co.il, 67.79₪ עבור שם מתחם org.il
+|[Domain The Net] | 79.99₪ עבור שם מתחם co.il,‏ 67.79₪ עבור שם מתחם org.il
 |[IP Mirror]      |
 |[Safenames]      |
->>>>>>> 75ce1907c4ea8188611087e657ce535b8a337843
  
 
 [WebLine]: http://www.webline.co.il/Site/he/pages/homePage.asp
