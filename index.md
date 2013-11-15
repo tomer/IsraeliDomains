@@ -16,10 +16,14 @@ title: השוואת מחירים של רשמי שמות מתחם ישראלים
 |[![livedns-logo]][LiveDNS]        | 70₪ עבור שם מתחם co.il/org.il למשתמשים חדשים. למשתמשים קיימים המחיר הוא 75₪.
 |[![galcomm-logo]][Galcomm]        | 16$ עבור שם מתחם co.il/org.il, בדף הראשי שלהם מתפרסם מידע על [חידוש שמות מתחם במחיר אטרקטיבי של 49₪](http://www.galcomm.co.il/RenewDomian.aspx), אבל הוא לא בתוקף כבר קרוב לשנה. 
 |[![dnt-logo]][Domain The Net]     | 79.99₪ עבור שם מתחם co.il,‏ 67.79₪ עבור שם מתחם org.il
+|[![isoc-logo]][isoc]              | איגוד האינטרנט מציע רישום/חידוש/הקצאה מחדש במחיר של 230₪, ומציין במפורש שהמחיר אצל [הרשמים המוסמכים] זול יותר.
 |[![ipmirror-logo]][IP Mirror]     |
 |[![safenames-logo]][Safenames]    |
  
 
+[isoc]:           http://www.isoc.org.il/domain_heb/registration_direct.html
+
+[הרשמים המוסמכים]: http://www.isoc.org.il/domain_heb/registration.html
 [WebLine]:        http://www.webline.co.il/Site/he/pages/homePage.asp
 [LiveDNS]:        https://domains.livedns.co.il/QuickDomReg.aspx
 [Galcomm]:        http://www.galcomm.co.il/
@@ -30,6 +34,7 @@ title: השוואת מחירים של רשמי שמות מתחם ישראלים
 [InterSpace]:     http://www.internic.co.il/isoc.html
 [box]:            http://box.co.il
 
+[isoc-logo]:       http://www.isoc.org.il/images_n/isoc_logo.png
 [box-logo]:        http://www.isoc.org.il/images_n/registrars/logo-GI.png
 [webline-logo]:    http://www.isoc.org.il/images_n/registrars/logo-PG.png
 [interspace-logo]: http://www.isoc.org.il/images_n/registrars/logo-IS.png
