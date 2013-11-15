@@ -9,26 +9,36 @@ title: השוואת מחירים של רשמי שמות מתחם ישראלים
 
 | שם הרשם | מחיר שם מתחם ישראלי לשנה |
 |:--------:| ------------------------- |
-|[box]            | 49₪  לשנה עבור שם מתחם co.il/org.il
-|[WebLine]        | 69₪ לשנה כולל מע"מ 
-|[InterSpace]     | 69.90₪ לשנה כולל מע"מ
-|[TripleC]        | 70₪ לשנה עבור שם מתחם co.il/org.il
-|[LiveDNS]        | 70₪ עבור שם מתחם co.il/org.il למשתמשים חדשים. למשתמשים קיימים המחיר הוא 75₪.
-|[Galcomm]        | 16$ עבור שם מתחם co.il/org.il, בדף הראשי שלהם מתפרסם מידע על [חידוש שמות מתחם במחיר אטרקטיבי של 49₪](http://www.galcomm.co.il/RenewDomian.aspx), אבל הוא לא בתוקף כבר קרוב לשנה. 
-|[Domain The Net] | 79.99₪ עבור שם מתחם co.il,‏ 67.79₪ עבור שם מתחם org.il
-|[IP Mirror]      |
-|[Safenames]      |
+|[![box-logo]][box]                | 49₪  לשנה עבור שם מתחם co.il/org.il
+|[![webline-logo]][WebLine]        | 69₪ לשנה כולל מע"מ 
+|[![interspace-logo]][InterSpace]  | 69.90₪ לשנה כולל מע"מ
+|[![triplec-logo]][TripleC]        | 70₪ לשנה עבור שם מתחם co.il/org.il
+|[![livedns-logo]][LiveDNS]        | 70₪ עבור שם מתחם co.il/org.il למשתמשים חדשים. למשתמשים קיימים המחיר הוא 75₪.
+|[![galcomm-logo]][Galcomm]        | 16$ עבור שם מתחם co.il/org.il, בדף הראשי שלהם מתפרסם מידע על [חידוש שמות מתחם במחיר אטרקטיבי של 49₪](http://www.galcomm.co.il/RenewDomian.aspx), אבל הוא לא בתוקף כבר קרוב לשנה. 
+|[![dnt-logo]][Domain The Net]     | 79.99₪ עבור שם מתחם co.il,‏ 67.79₪ עבור שם מתחם org.il
+|[![ipmirror-logo]][IP Mirror]     |
+|[![safenames-logo]][Safenames]    |
  
 
-[WebLine]: http://www.webline.co.il/Site/he/pages/homePage.asp
-[LiveDNS]: https://domains.livedns.co.il/QuickDomReg.aspx
-[Galcomm]: http://www.galcomm.co.il/
-[TripleC]: https://store.ccccloud.com/index.php?NAME_PATH=domainservices
+[WebLine]:        http://www.webline.co.il/Site/he/pages/homePage.asp
+[LiveDNS]:        https://domains.livedns.co.il/QuickDomReg.aspx
+[Galcomm]:        http://www.galcomm.co.il/
+[TripleC]:        https://store.ccccloud.com/index.php?NAME_PATH=domainservices
 [Domain The Net]: https://www.domainthenet.com/he/buydomain.aspx
-[Safenames]: http://www.safenames.net
-[IP Mirror]: http://www.ipmirror.com
-[InterSpace]: http://www.internic.co.il/isoc.html
-[box]: http://box.co.il
+[Safenames]:      http://www.safenames.net
+[IP Mirror]:      http://www.ipmirror.com
+[InterSpace]:     http://www.internic.co.il/isoc.html
+[box]:            http://box.co.il
+
+[box-logo]:        http://www.isoc.org.il/images_n/registrars/logo-GI.png
+[webline-logo]:    http://www.isoc.org.il/images_n/registrars/logo-PG.png
+[interspace-logo]: http://www.isoc.org.il/images_n/registrars/logo-IS.png
+[triplec-logo]:    http://www.isoc.org.il/images_n/registrars/logo-TC.png
+[livedns-logo]:    http://www.isoc.org.il/images_n/registrars/logo-LD.png
+[galcomm-logo]:    http://www.isoc.org.il/images_n/registrars/logo-GC.png
+[dnt-logo]:        http://www.isoc.org.il/images_n/registrars/logo-DT.png
+[ipmirror-logo]:   http://www.isoc.org.il/images_n/registrars/logo-IM.png
+[safenames-logo]:  http://www.isoc.org.il/images_n/registrars/logo-SN.png
 
 [רשמי שמות מתחם ישראלים]: http://www.isoc.org.il/domain_heb/registration.html
 [בקשת משיכה ב־github]: https://github.com/tomer/IsraeliDomains/blob/gh-pages/index.md
